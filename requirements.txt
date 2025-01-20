@@ -1,0 +1,10 @@
+torch==1.11.0+cu115
+scikit-learn==1.6.0
+transformers==4.47.1
+torchvision==0.12.0+cu115
+numpy==1.23.5
+pandas==2.2.3
+matplotlib==3.10.0
+seaborn==0.13.2
+Pillow==11.1.0
+tqdm==4.67.1
